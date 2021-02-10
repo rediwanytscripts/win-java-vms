@@ -6,6 +6,8 @@ things. It's based on [ievms](https://github.com/xdissent/ievms).
 
 To use it, put the files in this project on your PATH, then run:
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ```sh-session
 $ windows-create 
 Checking for VirtualBox
